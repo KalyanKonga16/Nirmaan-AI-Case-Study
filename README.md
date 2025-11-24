@@ -1,5 +1,9 @@
 # **🎓 Nirmaan AI Communication Evaluator**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nirmaan-ai-case-study-kk.streamlit.app/)
+
+**🔴 LIVE DEMO:** [Click here to try the app](https://nirmaan-ai-case-study-kk.streamlit.app/)
+
 ## **🚀 Overview**
 
 The **Nirmaan AI Evaluator** is an automated assessment tool designed to analyze student spoken introductions. It combines **Rule-Based Logic** (for structure and pacing) with **NLP Semantic Analysis** (for content relevance) to generate a rubric-aligned proficiency score (0-100).
