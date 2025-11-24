@@ -36,7 +36,7 @@ The system evaluates transcripts against an 8-point weighted rubric, identical t
 ## **📦 Quick Start (Local)**
 
 1. **Clone the Repository**  
-   git clone \[https://github.com/YOUR\_USERNAME/nirmaan-ai-evaluator.git\](https://github.com/YOUR\_USERNAME/nirmaan-ai-evaluator.git)  
+   git clone \[https://github.com/KalyanKonga16/nirmaan-ai-evaluator.git\](https://github.com/KalyanKonga16/nirmaan-ai-evaluator.git)  
    cd nirmaan-ai-evaluator
 
 2. **Install Dependencies**  
